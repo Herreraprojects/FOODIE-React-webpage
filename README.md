@@ -1,4 +1,4 @@
-
+Technologies: React, JavaScript, Visual StudioCode, HTML, CSS, Node.Js, MUI
 
 ![image](https://github.com/Herreraprojects/FOODIE-React-webpage/assets/119438944/cfea5f44-075f-40d1-a63f-b926f4a8be51)
 
