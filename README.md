@@ -1,3 +1,7 @@
+
+
+![image](https://github.com/Herreraprojects/FOODIE-React-webpage/assets/119438944/cfea5f44-075f-40d1-a63f-b926f4a8be51)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
